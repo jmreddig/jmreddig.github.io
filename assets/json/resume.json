@@ -6,7 +6,7 @@
     "image": "",
     "email": "jmreddig@gmail.com",
     "phone": "",
-    "summary": "Experienced technology professional with a Bachelor of Science (B.S.) focused in Mathematics from Lebanon Valley College. Computer Scientist with over a decade of Java programming experience. Undergraduate SQL and C++ experience in multiple projects. Graduate C and Python experience from Georgia Institute of Technology. Accomplished Computer Science Teacher with a demonstrated history of working in e-learning industry.",
+    "summary": "Ph.D. candidate specializing in Human-Centered Computing and Learning Sciences at Georgia Institute of Technology. Graduate Research Assistant with the Teachable AI Lab. MathStreamer Educator with Carnegie Learning, making engaging math instructional videos. With a strong foundation in computer science, I am commited to advancing education through AI technology.",
     "location": {
       "countryCode": "US",
       "address": "United States"
@@ -34,6 +34,15 @@
       "summary": "Graduate Research Assistant with the Teachable AI Lab",
       "url": "tail.cc.gatech.edu",
       "location": "Atlanta, Georgia, United States"
+    },
+    {
+      "name": "Carnegie Learning",
+      "position": "MathStreamer",
+      "startDate": "2023-08-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Virtual mathematics educator",
+      "url": "https://www.carnegielearning.com/solutions/math/mathstream/"
     },
     {
       "name": "Carnegie Learning",
