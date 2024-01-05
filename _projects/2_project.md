@@ -2,7 +2,7 @@
 layout: page
 title: Math & CS curriculum
 description: teaching math and computer science at the same time
-img: assets/img/3.jpg
+img: assets/img/tom-hermans-9BoqXzEeQqM-unsplash.jpg
 importance: 2
 category: fun
 giscus_comments: true
@@ -18,4 +18,7 @@ When I was teaching math and computer science, every year those two subjects wou
 <div class="caption">
     The finial presentation from CS6460, motivating the problem and my strategies for solving it
 </div>
+
+Cover photo by <a href="https://unsplash.com/@tomhermans?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tom Hermans</a> on <a href="https://unsplash.com/photos/book-lot-on-table-9BoqXzEeQqM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
 

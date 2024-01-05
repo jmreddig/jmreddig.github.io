@@ -17,7 +17,7 @@ My project is focused on harnessing VAL's capabilities to offer human-readable i
     margin-left: auto;
     margin-right: auto;
 ">
-        {% include video.html path="assets/video/val-interactive-htn-explainer.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.html path="assets/video/val-interactive-htn-explainer.mov" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
 </div>
 
 <div class="caption">
