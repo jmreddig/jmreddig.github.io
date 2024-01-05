@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Education researcher and video personality
+subtitle: Education Researcher and Video Personality.
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Jennifer Reddig, a doctoral student at [Georgia Institute of Technology](https://www.gatech.edu/). I'm a graduate Research Assistant with the [Teachable AI Lab](https://tail.cc.gatech.edu/) under Dr. Chris MacLellan. I'm also a MathStreamer with [Carnegie Learning](https://www.carnegielearning.com/solutions/math/mathstream/), making engaging math instructional videos.
+I'm Jennifer Reddig, a doctoral student at [Georgia Institute of Technology](https://www.gatech.edu/). I'm a graduate Research Assistant with the [Teachable AI Lab](https://tail.cc.gatech.edu/) under Dr. Chris MacLellan. My Bachelor's degree is in Mathematics Education and my Master's degree is in Computer Science. I'm also a MathStreamer with [Carnegie Learning](https://www.carnegielearning.com/solutions/math/mathstream/), making engaging math instructional videos.
 
 I've been a math and computer science middle and high school teacher, a software engineer, and now a graduate student. I'm passionate about computer science education, accessible education technologies, and using AI to support teachers.
 
