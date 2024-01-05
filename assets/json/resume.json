@@ -109,7 +109,7 @@
       "institution": "Georgia Institute of Technology",
       "area": "Computer Science",
       "studyType": "Masters",
-      "startDate": "2020-12-31",
+      "startDate": "2020-01-01",
       "endDate": "2022-12-31",
       "score": "4.0",
       "courses": [
@@ -129,8 +129,8 @@
       "institution": "Lebanon Valley College",
       "area": "Mathematics",
       "studyType": "Bachelor of Science (B.S.)",
-      "startDate": "2010-12-31",
-      "endDate": "2014-12-31",
+      "startDate": "2010-08-31",
+      "endDate": "2014-06-01",
       "score": "",
       "courses": [
         "Calculus III",
@@ -147,8 +147,8 @@
       "institution": "Warwick High School",
       "area": "",
       "studyType": "",
-      "startDate": "2006-12-31",
-      "endDate": "2010-12-31",
+      "startDate": "2006-08-31",
+      "endDate": "2010-06-01",
       "score": "",
       "courses": []
     }
