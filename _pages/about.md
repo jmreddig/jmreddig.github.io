@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Education researcher and video personality
 
 profile:
   align: right
-  image: jenn_pic.jpg
+  image: IMG_8563.HEIC
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
