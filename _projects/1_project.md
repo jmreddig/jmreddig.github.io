@@ -12,11 +12,14 @@ The Verbal Apprentice Learner (VAL) is an LLM-driven HTN depomposer. It recursiv
 
 My project is focused on harnessing VAL's capabilities to offer human-readable instructions in tutoring systems, as well as adding planning capabilities.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/val interactive htn explainer.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
-    </div>
+<div style="
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+">
+        {% include video.html path="assets/video/val-interactive-htn-explainer.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
 </div>
+
 <div class="caption">
     VAL explanations handle student questions and target the next step in the HTN.
 </div>
