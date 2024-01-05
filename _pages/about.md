@@ -6,8 +6,8 @@ subtitle: Education researcher and video personality
 
 profile:
   align: right
-  image: IMG_8563.HEIC
-  image_circular: false # crops the image to make it circular
+  image: IMG_8563.jpg
+  image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
