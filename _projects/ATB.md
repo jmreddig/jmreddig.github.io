@@ -2,7 +2,7 @@
 layout: page
 title: Apprentice Tutors
 description: domain general skill learning
-img: assets/img/val.png
+img: assets/img/HTN_Fractions_Mult_Example.png
 importance: 1
 category: work
 related_publications: 
