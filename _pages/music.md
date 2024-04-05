@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /music/
-title: Music
+title: music
 nav: true
 nav_order: 4
 ---
