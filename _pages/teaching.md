@@ -5,7 +5,7 @@ title: teaching
 description: Courses I've taught
 nav: true
 nav_order: 6
-display_categories: [middle school, high school]
+display_categories: [higher ed, middle school, high school]
 horizontal: false
 ---
 
