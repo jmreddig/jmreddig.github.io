@@ -5,7 +5,7 @@ description: teaching math and computer science at the same time
 img: assets/img/tom-hermans-9BoqXzEeQqM-unsplash.jpg
 importance: 2
 category: fun
-giscus_comments: true
+giscus_comments: false
 ---
 
 When I was teaching math and computer science, every year those two subjects would get closer and closer together. I would talk about encryption in my math classes, and movement through trig functions in my cs classes. All this crossover made me think that it would be more efficient (and more interesting for my students) if I could teach both together. Students could have direct applications of the math through programming, and learn about the theoretical mathematical underpinnings of computer science. I started this project in CS6460 Educational Technology, and have worked on it on and off since then. One day, this will start my curriculum empire.
