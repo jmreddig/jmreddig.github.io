@@ -24,3 +24,5 @@ I'm Jennifer Reddig, a doctoral student at [Georgia Institute of Technology](htt
 I've been a math and computer science middle and high school teacher, a software engineer, and now a graduate student. I'm passionate about computer science education, accessible education technologies, and using AI to support teachers.
 
 Outside of academics, I'm a social swing dancer, a board game nut, and an a cappella music enthusiast who's sometimes writes and produces her own arrangements.
+
+[Teaching Statement](/assets/pdf/TeachingStatement.pdf)
