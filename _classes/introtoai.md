@@ -28,14 +28,75 @@ Major topics addressed in this course:
 </ul>
 
 
-Course Evaluation:
+<style>
+  .evaluation-grid{
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 1rem;
+    align-items:start;
+  }
+  .evaluation-grid figure{ margin:0; }
+  .evaluation-grid img{
+    width:100%;
+    height:auto;
+    border-radius:8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,.08);
+  }
+  .evaluation-grid figcaption{
+    text-align:center;
+    font-size:.9rem;
+    color:#666;
+    margin-top:.35rem;
+  }
+</style>
 
-![effectiveness]({{ '/assets/img/evaluationSUM25/effectiveSUM25.png' | relative_url }})
-![clarity]({{ '/assets/img/evaluationSUM25/claritySUM25.png' | relative_url }})
-![communication]({{ '/assets/img/evaluationSUM25/communicationSUM25.png' | relative_url }})
-![respect]({{ '/assets/img/evaluationSUM25/respectSUM25.png' | relative_url }})
-![enthusiasm]({{ '/assets/img/evaluationSUM25/enthusiasmSUM25.png' | relative_url }})
-![interest]({{ '/assets/img/evaluationSUM25/interestSUM25.png' | relative_url }})
-![availability]({{ '/assets/img/evaluationSUM25/availabilitySUM25.png' | relative_url }})
-![helpfulness]({{ '/assets/img/evaluationSUM25/helpfulnessSUM25.png' | relative_url }})
+<h3>Course Evaluation:</h3>
+<div class="evaluation-grid">
+  <figure>
+    <a href="{{ '/assets/img/evaluationSUM25/effectiveSUM25.png' | relative_url }}">
+      <img src="{{ '/assets/img/evaluationSUM25/effectiveSUM25.png' | relative_url }}" alt="Effectiveness" loading="lazy">
+    </a>
+  </figure>
 
+  <figure>
+    <a href="{{ '/assets/img/evaluationSUM25/claritySUM25.png' | relative_url }}">
+      <img src="{{ '/assets/img/evaluationSUM25/claritySUM25.png' | relative_url }}" alt="Clarity" loading="lazy">
+    </a>
+  </figure>
+
+  <figure>
+    <a href="{{ '/assets/img/evaluationSUM25/communicationSUM25.png' | relative_url }}">
+      <img src="{{ '/assets/img/evaluationSUM25/communicationSUM25.png' | relative_url }}" alt="Communication" loading="lazy">
+    </a>
+  </figure>
+
+  <figure>
+    <a href="{{ '/assets/img/evaluationSUM25/respectSUM25.png' | relative_url }}">
+      <img src="{{ '/assets/img/evaluationSUM25/respectSUM25.png' | relative_url }}" alt="Respect" loading="lazy">
+    </a>
+  </figure>
+
+  <figure>
+    <a href="{{ '/assets/img/evaluationSUM25/enthusiasmSUM25.png' | relative_url }}">
+      <img src="{{ '/assets/img/evaluationSUM25/enthusiasmSUM25.png' | relative_url }}" alt="Enthusiasm" loading="lazy">
+    </a>
+  </figure>
+
+  <figure>
+    <a href="{{ '/assets/img/evaluationSUM25/interestSUM25.png' | relative_url }}">
+      <img src="{{ '/assets/img/evaluationSUM25/interestSUM25.png' | relative_url }}" alt="Interest" loading="lazy">
+    </a>
+  </figure>
+
+  <figure>
+    <a href="{{ '/assets/img/evaluationSUM25/availabilitySUM25.png' | relative_url }}">
+      <img src="{{ '/assets/img/evaluationSUM25/availabilitySUM25.png' | relative_url }}" alt="Availability" loading="lazy">
+    </a>
+  </figure>
+
+  <figure>
+    <a href="{{ '/assets/img/evaluationSUM25/helpfulnessSUM25.png' | relative_url }}">
+      <img src="{{ '/assets/img/evaluationSUM25/helpfulnessSUM25.png' | relative_url }}" alt="Helpfulness" loading="lazy">
+    </a>
+  </figure>
+</div>
