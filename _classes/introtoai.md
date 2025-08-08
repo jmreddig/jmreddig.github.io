@@ -30,18 +30,12 @@ Major topics addressed in this course:
 
 Course Evaluation:
 
-![effectiveness](assets/img/evaluationSUM25/effectiveSUM25.png)
+![effectiveness]({{ '/assets/img/evaluationSUM25/effectiveSUM25.png' | relative_url }})
+![clarity]({{ '/assets/img/evaluationSUM25/claritySUM25.png' | relative_url }})
+![communication]({{ '/assets/img/evaluationSUM25/communicationSUM25.png' | relative_url }})
+![respect]({{ '/assets/img/evaluationSUM25/respectSUM25.png' | relative_url }})
+![enthusiasm]({{ '/assets/img/evaluationSUM25/enthusiasmSUM25.png' | relative_url }})
+![interest]({{ '/assets/img/evaluationSUM25/interestSUM25.png' | relative_url }})
+![availability]({{ '/assets/img/evaluationSUM25/availabilitySUM25.png' | relative_url }})
+![helpfulness]({{ '/assets/img/evaluationSUM25/helpfulnessSUM25.png' | relative_url }})
 
-![clarity](assets/img/evaluationSUM25/claritySUM25.png)
-
-![communication](assets/img/evaluationSUM25/communicationSUM25.png)
-
-![respect](assets/img/evaluationSUM25/respectSUM25.png)
-
-![enthusiasm](assets/img/evaluationSUM25/enthusiasmSUM25.png)
-
-![interest](assets/img/evaluationSUM25/interestSUM25.png)
-
-![availability](assets/img/evaluationSUM25/availabilitySUM25.png)
-
-![helpfulness](assets/img/evaluationSUM25/helpfulnessSUM25.png)
