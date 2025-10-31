@@ -2,7 +2,7 @@
 layout: page
 title: AI Education
 description: strategies for teaching AI concepts
-img: assets/img/HTN_Fractions_Mult_Example.png
+img: assets/img/aiedgame.png
 importance: 1
 category: work
 related_publications: 
