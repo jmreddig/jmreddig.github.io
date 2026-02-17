@@ -1,16 +1,14 @@
 ---
 layout: page
-title: Verbal Apprentice Learner
-description: natural language htn learning
+title: Multi-Step Hints
+description: contextual hint generation
 img: assets/img/val.png
 importance: 1
 category: work
-related_publications: 
+related_publications: true
 ---
 
-The Verbal Apprentice Learner (VAL) is an LLM-driven HTN depomposer. It recursively defines tasks in order to break them down into the smallest components. The LLM assists by grounding the natural language to predicates and matching the semantics of similar instructions ('go to the stove' vs 'head toward the stove'). The logic of the task is not interpreted by the LLM, only the language. VAL can create a robust expert model while being safe from LLM halucinations.
-
-My project is focused on harnessing VAL's capabilities to offer human-readable instructions in tutoring systems, as well as adding planning capabilities.
+My project is focused on harnessing an LLM's capabilities to offer human-readable, contextualized and personalized hints in tutoring systems. You can read our evaluation of using GPT-4 for generating contextualized hints in our paper {% cite reddig_arora_maclellan_2025 %}.
 
 <div style="
     display: block;

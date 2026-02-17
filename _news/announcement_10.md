@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"Embodied Interaction for AI Literacy in Higher Education" accepted for publication at EAAI-25.
+"AI Unplugged: Embodied Interactions for AI Literacy in Higher Education" accepted for publication at EAAI-26.
