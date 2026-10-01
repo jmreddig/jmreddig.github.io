@@ -12,7 +12,6 @@ eval_term: "Summer 2026"
 eval_course: "CS 3600, Georgia Tech"
 eval_responded: 27
 eval_possible: 33
-eval_pdf: /assets/pdf/CS3600-SUM26-evaluation.pdf
 eval_instructor:
   - {label: "Respect for students",          median: 4.93, counts: [23, 3, 0, 0, 0]}
   - {label: "Inclusiveness",                  median: 4.93, counts: [23, 3, 0, 0, 0]}
