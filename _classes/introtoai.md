@@ -6,7 +6,6 @@ description: survey of AI methods
 importance: 1
 category: higher ed
 related_publications: reddig2026aiunplugged, reddig2026teaching
----
 
 # ---- Evaluation data: update these each term ----
 eval_term: "Summer 2026"
